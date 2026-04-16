@@ -73,8 +73,4 @@ This project presents a detailed analysis of the Indian stock market, focusing o
 
 ## ⚠️ Disclaimer
 
-This project is for educational purposes only and does not provide financial advice.
-
----
-
-⭐ Star this repo if you found it useful!
+This project is for educational purposes only and does not provide financial advice. 
